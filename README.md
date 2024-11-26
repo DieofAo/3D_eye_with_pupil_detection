@@ -25,7 +25,7 @@
  
  2）在可执行程序的上层build的文件夹路径下配置doc文件夹，并放置cameraintrinsics_eye.txt
 # 3.瞳孔识别添加了pupil的修改记录
- path/main.cpp下修改254-263行
+ path/main/main.cpp下修改254-263行
  
  瞳孔识别中丢失估计视轴的问题预计出现在263行的pupilFitter.pupilAreaFitRR方法中，这里将其暴力修改为262的强行置true
 
