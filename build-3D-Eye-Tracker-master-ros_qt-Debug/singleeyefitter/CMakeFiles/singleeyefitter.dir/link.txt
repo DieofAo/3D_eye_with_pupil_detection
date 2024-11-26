@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsingleeyefitter.a  CMakeFiles/singleeyefitter.dir/SingleEyeFitter.cpp.o CMakeFiles/singleeyefitter.dir/cvx.cpp.o CMakeFiles/singleeyefitter.dir/utils.cpp.o
+/usr/bin/ranlib libsingleeyefitter.a
