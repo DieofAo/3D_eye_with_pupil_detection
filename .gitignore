@@ -1,8 +1,8 @@
-# 忽略构建目录（通常为 Debug 或 Release 等文件夹）
+
 build-3D-Eye-Tracker-master-ros_qt-Debug/
 
-# 忽略 IDE 生成的配置文件
+
 3D-Eye-Tracker-master/CMakeLists.txt.user
 
-# 忽略视频文件（如果不需要版本控制的话）
+
 3D-Eye-Tracker-master/*.mp4
